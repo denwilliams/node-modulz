@@ -13,7 +13,7 @@ Usage:
     ];
 }
 
-var modulz = require('node-modulz');
+var modulz = require('modulz');
 modulz.run(modules);
 
 ```

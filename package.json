@@ -1,1 +1,6 @@
-{}
+{
+	"name": "modulz",
+	"version": "0.0.1",
+	"description": "Breaks your application into modules that run in their own processes. Prevent crashes in one component from affecting another and auto-restarts crashed components.",
+	"license": "MIT"
+}
